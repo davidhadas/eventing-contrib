@@ -11,13 +11,13 @@
 The Knative Eventing Contrib project provides source and channel implementations
 that:
 
-- Integrate with Apache Camel-K - new location: https://github.com/knative-sandbox/eventing-camel
-- Integrate with Apache CouchDB - new location: https://github.com/knative-sandbox/eventing-couchdb
-- Integrate with Apache Kafka - new location: https://github.com/knative-sandbox/eventing-kafka (consolidated)
-- Integrate with AWS SQS - new location: https://github.com/knative-sandbox/eventing-awssqs
-- Integrate with GitHub - new location: https://github.com/knative-sandbox/eventing-github
-- Integrate with GitLab - new location: https://github.com/knative-sandbox/eventing-gitlab
-- Integrate with NATS Streaming - new location: https://github.com/knative-sandbox/eventing-natss
+- Integrate with Apache Camel-K - new location: https://github.com/knative-extension/eventing-camel
+- Integrate with Apache CouchDB - new location: https://github.com/knative-extension/eventing-couchdb
+- Integrate with Apache Kafka - new location: https://github.com/knative-extension/eventing-kafka (consolidated)
+- Integrate with AWS SQS - new location: https://github.com/knative-extension/eventing-awssqs
+- Integrate with GitHub - new location: https://github.com/knative-extension/eventing-github
+- Integrate with GitLab - new location: https://github.com/knative-extension/eventing-gitlab
+- Integrate with NATS Streaming - new location: https://github.com/knative-extension/eventing-natss
 - Integrate with Websockets
 - Sample code and tools - new location: https://github.com/knative/eventing
 - Expose an ingress
